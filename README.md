@@ -1,5 +1,5 @@
 # ActiveLearning
-An uncertainty based sampling to develop a model using Active Learning
+An uncertainty based sampling to develop a model using Active Learning.<br><br>
 This repository demosntrates Active Learning by training a model based on uncertainty based sampling.
 
 ### Files
