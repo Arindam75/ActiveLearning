@@ -11,3 +11,5 @@ There are three jupyter notbooks in this repository
 ### Pre-Requisites
 
 __System Requirements__
+__Dataset__
+Download the dataset dogs-vs-cats.zip from __[here](https://www.kaggle.com/competitions/dogs-vs-cats/data)__
