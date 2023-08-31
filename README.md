@@ -12,7 +12,7 @@ There are three jupyter notbooks in this repository
 
 __System Requirements__<br>
 __Packages__<br>
-__Dataset__<br>
+__Dataset and Notebooks__<br>
 
 Clone the repository and download the dataset dogs-vs-cats.zip from __[here](https://www.kaggle.com/competitions/dogs-vs-cats/data)__ and extract train.zip into the project folder. The code in the 1st notebook creates a folder __train__ and extracts all the image files into this.<br>
 Run the 1st notebook, that creates a baseline model_baseline.h5 in the folder model<br>
