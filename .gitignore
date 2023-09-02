@@ -1,3 +1,4 @@
 train/
 *.zip
 .ipynb_checkpoints/
+*.pyc
