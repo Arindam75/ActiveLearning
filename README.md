@@ -1,6 +1,6 @@
 # ActiveLearning
 <br><br>
-This repository demonstrates Active Learning by training a model based on uncertainty based sampling.<br> This is the companion repository to the Medium article
+This repository demonstrates Active Learning by training a model based on uncertainty based sampling.<br> This is the companion repository to the Medium article __[A Gentle Introduction to Active Learning](https://arindam-dey.medium.com/a-gentle-introduction-to-active-learning-e983b9d175cb)__
 
 ### Files
 There are three jupyter notbooks in this repository
@@ -12,7 +12,7 @@ There are three jupyter notbooks in this repository
 
 __System Requirements__<br>
 
-I ran the experiemnets on a acer Nitro-5 laptop with NVIDIA GeForce RTX 3060 GPU.<br>
+I ran the experiemnets on a acer Nitro-5 laptop with NVIDIA GeForce RTX 3060 GPU.<br><br>
 I haven't tried it on google colab, but it should be straightforward with some tweaks. In case you want to run the experiment on google colab, move all the contents of the repository into a folder in your google drive. Get the train.zip ( see Dataset and Notebooks ) below. folder also in the same folder. Then in colab , mount your google drive and use this folder as your project folder.
 
 __Packages__<br>
