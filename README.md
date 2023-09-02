@@ -1,6 +1,6 @@
 # ActiveLearning
 <br><br>
-This repository demonstrates Active Learning by training a model based on uncertainty based sampling.
+This repository demonstrates Active Learning by training a model based on uncertainty based sampling.<br> This is the companion repository to the Medium article
 
 ### Files
 There are three jupyter notbooks in this repository
